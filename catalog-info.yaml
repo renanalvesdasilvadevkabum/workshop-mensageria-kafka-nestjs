@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: workshop-mensageria-kafka-nestjs
+  annotations:
+    github.com/project-slug: renansilvakabum/workshop-mensageria-kafka-nestjs
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
